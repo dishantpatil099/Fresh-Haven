@@ -1,8 +1,12 @@
 ## Fresh Haven - Bringing the farm to your doorstep: Fresh, local produce just a click away!
 Future Ready Talent - Internship Project
 
-## Website Deployed Link: https://orange-meadow-04789ad00.3.azurestaticapps.net/
+## Website Deployed Link: https://icy-dune-07a4c1300.3.azurestaticapps.net
 Live Demo (YouTube Video) : https://youtu.be/X2stR0YRbf8
+
+## Azure Technologies Used for FRT Project (Fresh Haven):
+Azure Static Web App
+Azure Health Bot
 
 # Project Description: 
    The project aims to address the growing concern over the hazardous side effects of non-organic and stale vegetables and fruits on human health. The project seeks to connect consumers who are health-conscious and want to have access to fresh organic produce with local farms and farmers.
@@ -18,6 +22,15 @@ Live Demo (YouTube Video) : https://youtu.be/X2stR0YRbf8
    Tech Used :   Bootstrap v5.0 ,  HTML CSS , JavaScript
 
 ### Screenshots of Live responsive web application:
+
+# Azure Static WebApp Deployment Portal
+<img width="1200" alt="Screenshot 2023-04-19 at 15 40 41" src="https://user-images.githubusercontent.com/84818493/233043699-2e0cee84-d2a4-4259-9d42-1b54efe24434.png">
+
+# Azure Heath Bot Portal
+<img width="1429" alt="Screenshot 2023-04-26 at 16 49 19" src="https://user-images.githubusercontent.com/84818493/234559883-1abea02c-5b5c-4bcb-b9b0-ffd99fe0bb41.png">
+
+
+
 # Home Page
 
 <img width="1456" alt="Screenshot 2023-04-19 at 15 27 28" src="https://user-images.githubusercontent.com/84818493/233039799-309547a4-c6d8-41cc-a7f9-04d2f6c1e018.png">
@@ -34,5 +47,4 @@ Live Demo (YouTube Video) : https://youtu.be/X2stR0YRbf8
 # Contact
 <img width="932" alt="Screenshot 2023-04-19 at 15 37 28" src="https://user-images.githubusercontent.com/84818493/233042742-7d5ccbb4-c0bd-40f6-9097-2b5266d22bb6.png">
 
-# Azure Static WebApp Deployment Portal
-<img width="1200" alt="Screenshot 2023-04-19 at 15 40 41" src="https://user-images.githubusercontent.com/84818493/233043699-2e0cee84-d2a4-4259-9d42-1b54efe24434.png">
+
