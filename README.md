@@ -29,7 +29,9 @@ Live Demo (YouTube Video) : https://youtu.be/X2stR0YRbf8
 ### Screenshots of Live responsive web application:
 
 # Azure Static WebApp Deployment Portal
-<img width="1200" alt="Screenshot 2023-04-19 at 15 40 41" src="https://user-images.githubusercontent.com/84818493/233043699-2e0cee84-d2a4-4259-9d42-1b54efe24434.png">
+<img width="1254" alt="Screenshot 2023-04-26 at 17 22 22" src="https://user-images.githubusercontent.com/84818493/234566927-ea036815-2614-4c4f-9992-bf1cc8802384.png">
+
+
 
 # Azure Heath Bot Portal
 <img width="1429" alt="Screenshot 2023-04-26 at 16 49 19" src="https://user-images.githubusercontent.com/84818493/234559883-1abea02c-5b5c-4bcb-b9b0-ffd99fe0bb41.png">
