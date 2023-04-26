@@ -9,9 +9,14 @@ Live Demo (YouTube Video) : https://youtu.be/X2stR0YRbf8
 * Azure Health Bot
 
 # Project Description: 
+
+   Fresh Haven (FRT Internship Project) uses Azure Static WebApp and Azure Health Bot to solve the growing concern, arising due to un-healthy & non-organic fruits and vegetables.
+   
    The project aims to address the growing concern over the hazardous side effects of non-organic and stale vegetables and fruits on human health. The project seeks to connect consumers who are health-conscious and want to have access to fresh organic produce with local farms and farmers.
 
    The website will serve as a platform where consumers can browse and order fresh vegetables and fruits directly from local farms. It will feature a user-friendly interface that allows customers to easily navigate through the available products and make orders.
+   
+   Azure Health Bot can be a valuable addition to a website that delivers fresh organic farm products to consumers by providing a conversational AI solution that can help with various aspects of customer engagement and support. 
 
    To ensure the quality and freshness of the produce, the website will feature a rating system where customers can rate the quality of the produce they receive. This will help farmers to improve their farming practices and maintain the high quality of their produce.
 
@@ -35,6 +40,13 @@ Live Demo (YouTube Video) : https://youtu.be/X2stR0YRbf8
 
 <img width="1456" alt="Screenshot 2023-04-19 at 15 27 28" src="https://user-images.githubusercontent.com/84818493/233039799-309547a4-c6d8-41cc-a7f9-04d2f6c1e018.png">
 <img width="478" alt="Screenshot 2023-04-19 at 15 29 56" src="https://user-images.githubusercontent.com/84818493/233040797-3d52a27d-29f2-4ffa-9db2-8128e06398ad.png">
+
+# Azure Health Bot Page
+<img width="1455" alt="Screenshot 2023-04-26 at 16 52 38" src="https://user-images.githubusercontent.com/84818493/234560744-109e9aa1-ea69-4085-a4e9-1d2f40489245.png">
+<img width="1470" alt="Screenshot 2023-04-26 at 16 53 18" src="https://user-images.githubusercontent.com/84818493/234560795-955f6302-0810-44d5-9660-0f933f1c583d.png">
+
+
+
 
 # About 
 <img width="1455" alt="Screenshot 2023-04-19 at 15 32 39" src="https://user-images.githubusercontent.com/84818493/233041448-f594bb8b-cd60-45cb-809b-b77dbafa735c.png">
