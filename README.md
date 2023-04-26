@@ -5,8 +5,8 @@ Future Ready Talent - Internship Project
 Live Demo (YouTube Video) : https://youtu.be/X2stR0YRbf8
 
 ## Azure Technologies Used for FRT Project (Fresh Haven):
-Azure Static Web App
-Azure Health Bot
+* Azure Static Web App
+* Azure Health Bot
 
 # Project Description: 
    The project aims to address the growing concern over the hazardous side effects of non-organic and stale vegetables and fruits on human health. The project seeks to connect consumers who are health-conscious and want to have access to fresh organic produce with local farms and farmers.
